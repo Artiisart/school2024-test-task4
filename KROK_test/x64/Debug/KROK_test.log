@@ -1,0 +1,4 @@
+﻿  KROK_test.cpp
+D:\РХТУ\Studying\Course 3\semester 6\KROK\KROK_test\KROK_test\KROK_test.cpp(76,21): warning C4551: в вызове функции отсутствует список аргументов
+D:\РХТУ\Studying\Course 3\semester 6\KROK\KROK_test\KROK_test\KROK_test.cpp(53): warning C4715: isValidCommitDateTimeFormat: значение возвращается не при всех путях выполнения
+  KROK_test.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\KROK\KROK_test\x64\Debug\KROK_test.exe
